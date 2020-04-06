@@ -2,8 +2,8 @@
 /**
 * File Name: Link.java
 * Purpose: An implementation of the LinkedList data structure using generics
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2020-03-15
+* Last modified: 2020-03-15
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
